@@ -1,0 +1,39 @@
+body{ 
+  font-family: 'Montserrat', sans-serif;
+  background-color: #000000;
+  padding: 1px;
+}
+.first{
+  font-style: italic;
+  font-weight: 600;
+  font-size: 15px;
+  line-height: 16px;
+  color: #ffffff;
+  text-indent: 350px;
+}
+.h3_first{
+  text-indent: 650px;
+}
+.h4_scroll{
+  text-indent: 650px;
+}
+.scroll{
+  font-style: italic;
+  font-weight: 600;
+  font-size: 15px;
+  line-height: 16px;
+  color: #ffffff;
+  text-indent: 600px;
+}
+.end{
+  font-style: italic;
+  font-weight: 600;
+  font-size: 15px;
+  line-height: 16px;
+  color: #ffffff;
+  text-indent: 350px;
+}
+.end_h3{
+  text-indent: 200px;
+}
+
